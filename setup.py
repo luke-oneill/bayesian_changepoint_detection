@@ -2,6 +2,7 @@
 
 from distutils.core import setup
 import bayesian_changepoint_detection
+import setuptools
 
 setup(name='bayesian_changepoint_detection',
       version=bayesian_changepoint_detection.__version__,
