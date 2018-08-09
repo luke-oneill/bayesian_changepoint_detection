@@ -9,6 +9,6 @@ setup(name='bayesian_changepoint_detection',
       author='Johannes Kulick',
       author_email='johannes.kulick@ipvs.uni-stuttgart.de',
       url='http://github.com/hildensia/bayesian_changepoint_detection',
-      packages = ['bayesian_changepoint_detection'],
+      packages=['bayesian_changepoint_detection'],
       requires=['scipy', 'numpy']
      )
